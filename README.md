@@ -9,3 +9,6 @@ Winget Configuration file
 
 PowerShell modules and Desired State Configuration (DSC) Resources
 
+For more information see the wiki:
+https://github.com/John-Goossen/GCL/wiki
+
